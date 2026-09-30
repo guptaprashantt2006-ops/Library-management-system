@@ -89,6 +89,6 @@ Members — Stores member details
 
 Issued Books — Stores book issue and return records
 
-Author
+Author:
 PRASHANT KUMAR GUPTA
 
